@@ -27,8 +27,6 @@ KATALIS – A Conceptual Acronym:
 
 [NeoNephos](https://neonephos.org/) Launch Date Kubecon Europe 01.04.2025. NeoNephos Foundation Announces Intent to Launch, Fostering Collaboration and Innovation for digital autonomy in Europe
 
-[SAP ApeiroRA](https://apeirora.eu/) Enter ApeiroRA, a pioneering initiative within the EU's digital policy project, aimed at reshaping cloud-edge interactions. Let's delve into the core elements driving this transformation, from ORD down to Iron- and CobaltCore. These components, alongside projects like Gardener, OCM, and OpenMFP, offer a neutral and open interoperability approach based on existing, well-accepted cloud-native ecosystem standards. Build the future of the cloud-edge continuum together with ApeiroRA.
-
 [GSMA Operator Platform](https://www.gsma.com/solutions-and-impact/technologies/networks/operator-platform-hp/)
 defines a common platform exposing (telco) operator services/capabilities to customers/developers in the 5G-era
 in a connect once, connect to many models by a standardisation of a common architecture using a
@@ -47,4 +45,3 @@ It should enable a cloud edge continuum in both directions:
 - [What is the IPCEI-CIS?](https://www.8ra.com/ipcei-cis/)
 - [Operator Platform: Requirements and Architecture, Version 7.0, 20 September 2024](https://www.gsma.com/solutions-and-impact/technologies/networks/wp-content/uploads/2024/09/OPG.02-v7.0-Operator-Platform-Requirements-and-Architecture.pdf)
 - [GitHub Gardener](https://github.com/gardener/gardener)
-- [SAP Apeiro-Reference-Architecture](https://apeirora.eu/content/about/)
