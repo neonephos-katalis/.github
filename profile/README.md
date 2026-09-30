@@ -40,8 +40,93 @@ It should enable a cloud edge continuum in both directions:
 - The consumption of telco operator compute/storage resources from gardener controlled environments, i.E. to deploy application fragments close the edge of a UE to fulfill latency requirements
 - The extension of telco operator federation to software cloud providers resources
 
+---
+
+## Funding and support
+
+This open source project is part of activities carried out within the Important Project of Common European Interest on Next Generation Cloud Infrastructure and Services (IPCEI-CIS), an EU initiative to build a sovereign, interoperable and energy-efficient cloud‑to‑edge infrastructure in Europe.
+
+
+## Purpose
+
+The goal of this repository is to ensure that all contributors, members, and stakeholders share a **transparent and common understanding** of how decisions are made, how work is organized, and how the project evolves.
+
+Governance provides:
+
+- **Clarity** on roles, responsibilities, and decision-making processes
+- **Fairness** through open participation and consensus-driven approaches
+- **Accountability** by documenting policies, rules, and procedures
+- **Alignment** with European priorities (IPCEI-CIS, Gaia-X, EU research programs)
+
+---
+
+## Governance Model
+
+The project follows an **open governance model** inspired by Linux Foundation best practices.
+
+- **Steering Committee (SC)**
+  - Responsible for strategic direction, alignment with EU initiatives, and coordination with other projects (e.g., Gardener, OCM, ApeiroRA).
+  - Membership: Representatives from participating organizations.
+
+- **Technical Steering Committee (TSC)**
+  - Oversees technical decisions, architecture specifications, and interoperability efforts.
+  - Membership: Maintainers elected by contributors.
+
+- **Working Groups (LF)**
+  - Topic-specific groups (e.g., Security, Cloud–Edge Federation, API Standardization).
+  - Open to all contributors.
+
+- **Community**
+  - Contributions are open via pull requests, issues, and discussions.
+  - All technical contributions require **two maintainer approvals** before merging.
+
+---
+
+## Principles
+
+1. **Openness** – Participation is open to all stakeholders.
+2. **Transparency** – All decisions are documented and accessible.
+3. **Meritocracy** – Influence is earned through contribution.
+4. **Neutrality** – Governance is vendor-neutral, focused on interoperability.
+5. **Security by Design** – Governance ensures compliance with EU standards (e.g., GDPR, NIS2).
+
+---
+
+## Decision Making
+
+- **Consensus first** – seek agreement in working groups.
+- **Lazy consensus** – silence means consent after 5 business days.
+- **Escalation** – unresolved issues can be raised to the TSC, then the SC.
+
+---
+
+## Alignment with IPCEI-CIS
+
+This project contributes to the **Important Project of Common European Interest – Cloud Infrastructure and Services (IPCEI-CIS)** by:
+
+- Promoting **open standards** and **API-first interoperability**
+- Building a **secure, cloud–edge continuum**
+- Supporting **sovereign European digital infrastructure**
+
+---
+
+## How to Engage
+
+- Join discussions in GitHub **Issues** & **Discussions**
+- Propose changes via **Pull Requests**
+- Participate in **Working Groups**
+
+---
+
 ## References
 
 - [What is the IPCEI-CIS?](https://www.8ra.com/ipcei-cis/)
-- [Operator Platform: Requirements and Architecture, Version 7.0, 20 September 2024](https://www.gsma.com/solutions-and-impact/technologies/networks/wp-content/uploads/2024/09/OPG.02-v7.0-Operator-Platform-Requirements-and-Architecture.pdf)
-- [GitHub Gardener](https://github.com/gardener/gardener)
+- [LFX Insights](https://insights.linuxfoundation.org/project/katalis?timeRange=past365days&start=2025-09-30&end=2026-09-30)
+- [GSMA OPG. 02 – Requirements and Architecture](https://www.gsma.com/solutions-and-impact/technologies/networks/gsma_resources/opg-02-requirements-and-architecture/)
+- [GSMA OPG. 04 – East-Westbound Interface APIs](https://www.gsma.com/solutions-and-impact/technologies/networks/gsma_resources/opg-04-east-westbound-interface-apis/)
+- [GSMA OPG. 11 – East-Westbound Interface APIs](https://www.gsma.com/solutions-and-impact/technologies/networks/gsma_resources/opg-11-operator-platform-requirements-for-edge-services-2/)
+-  [GSMA OPG.12 – Operator Platform: Requirements for Network as a Service](https://www.gsma.com/solutions-and-impact/technologies/networks/gsma_resources/opg-12-operator-platform-requirements-for-network-as-a-service/)
+
+
+
+
