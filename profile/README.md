@@ -1,6 +1,3 @@
-<!--
-SPDX-FileCopyrightText: 2024 Neonephos Foundation
--->
 
 # Katalis
 
