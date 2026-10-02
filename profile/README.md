@@ -5,6 +5,7 @@
 
 [![REUSE badge](https://api.reuse.software/badge/github.com/telekom/NeoNephos-Katalis)](https://api.reuse.software/info/github.com/telekom/NeoNephos-Katalis)
 
+[![LFX Health Score](https://insights.linuxfoundation.org/api/badge/health-score?project=katalis)](https://insights.linuxfoundation.org/project/katalis)
 ## About
 
 Katalis is embedded in the Linux Foundation Europe Project NeoNephos. The NeoNephos Foundation is building an open, secure, and interoperable cloud-edge continuum, empowering stakeholders to collaborate and innovate for Europe’s digital future.
