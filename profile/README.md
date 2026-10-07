@@ -1,11 +1,40 @@
 
-# Katalis
+# NeoNephos-Katalis
+<div align="center">
 
-<img src="resources/Katalis-Logo.png" alt="Description" width="15%" height="15%">
+  <!-- Logos Section -->
+  <p align="center">
+    <img src="resources/linux-fx-logo.png" alt="Linux Foundation" height="65" style="vertical-align: middle; margin: 0 15px;">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="resources/neonephos-katalis-logo.png" alt="NeoNephos Katalis" height="110" style="vertical-align: middle; margin: 0 15px;">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="resources/neonephos-logo.png" alt="NeoNephos Foundation" height="45" style="vertical-align: middle; margin: 0 15px;">
+  </p>
 
-[![REUSE badge](https://api.reuse.software/badge/github.com/telekom/NeoNephos-Katalis)](https://api.reuse.software/info/github.com/telekom/NeoNephos-Katalis)
+  <!-- Badge Section-->
+  <p align="center">
+    <a href="https://api.reuse.software/info/github.com/telekom/NeoNephos-Katalis">
+      <img src="https://api.reuse.software/badge/github.com/telekom/NeoNephos-Katalis" alt="REUSE badge">
+    </a>
+    &nbsp;
+    <a href="https://insights.linuxfoundation.org/project/katalis">
+      <img src="https://insights.linuxfoundation.org/api/badge/health-score?project=katalis" alt="LFX Health Score">
+    </a>
+  </p>
 
-[![LFX Health Score](https://insights.linuxfoundation.org/api/badge/health-score?project=katalis)](https://insights.linuxfoundation.org/project/katalis)
+<!--  Project Details -->
+| Properties | Description |
+| :--- | :--- |
+| 🏷️ **Project** | **NeoNephos-Katalis** |
+| 📝 **Description** | K8s Controller & API federating Telco and Cloud |
+| ⚖️ **License** | [Apache 2.0](LICENSE) |
+| 📦 **Repository** | [neonephos-katalis/opg-ewbi-operator](https://github.com/neonephos-katalis/opg-ewbi-operator) |
+| 📖 **Documentation** | [neonephos-katalis/opg-ewbi-documentation](https://github.com/neonephos-katalis/opg-ewbi-documentation) |
+| 📖 **LFX Insights** | [Katalis](https://insights.linuxfoundation.org/project/katalis?timeRange=past365days&start=2025-10-07&end=2026-10-07)
+| 🟢 **Status** | Active |
+
+</div>
+
 ## About
 
 Katalis is embedded in the Linux Foundation Europe Project NeoNephos. The NeoNephos Foundation is building an open, secure, and interoperable cloud-edge continuum, empowering stakeholders to collaborate and innovate for Europe’s digital future.
