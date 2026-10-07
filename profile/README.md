@@ -1,13 +1,7 @@
-
-# NeoNephos-Katalis
 <div align="center">
 
   <!-- Logos Section -->
   <p align="center">
-    <img src="resources/linux-fx-logo.png" alt="Linux Foundation" height="65" style="vertical-align: middle; margin: 0 15px;">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="resources/neonephos-katalis-logo.png" alt="NeoNephos Katalis" height="110" style="vertical-align: middle; margin: 0 15px;">
-    &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="resources/neonephos-logo.png" alt="NeoNephos Foundation" height="45" style="vertical-align: middle; margin: 0 15px;">
   </p>
 
