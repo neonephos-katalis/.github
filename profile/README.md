@@ -18,18 +18,18 @@
   </p>
 
 <!--  Project Details -->
-| 🛠️ **Project** | **NeoNephos-Katalis** |
+| **Project** | **NeoNephos-Katalis** |
 | :--- | :--- |
-| 📝 **Description** | K8s Controller & API federating Telco and Cloud |
-| ⚖️ **License** | [Apache 2.0](LICENSE) |
-| 📦 **Repository** | [neonephos-katalis/opg-ewbi-operator](https://github.com/neonephos-katalis/opg-ewbi-operator) |
-| 📖 **Documentation** | [neonephos-katalis/opg-ewbi-documentation](https://github.com/neonephos-katalis/opg-ewbi-documentation) |
-| 📖 **LFX Insights** | [Katalis](https://insights.linuxfoundation.org/project/katalis?timeRange=past365days&start=2025-10-07&end=2026-10-07)
-| 🟢 **Status** | Active |
+| **Description** | K8s Controller & API federating Telco and Cloud |
+| **License** | [Apache 2.0](LICENSE) |
+| **Repository** | [neonephos-katalis/opg-ewbi-operator](https://github.com/neonephos-katalis/opg-ewbi-operator) |
+| **Documentation** | [neonephos-katalis/opg-ewbi-documentation](https://github.com/neonephos-katalis/opg-ewbi-documentation) |
+| **LFX Insights** | [Katalis](https://insights.linuxfoundation.org/project/katalis?timeRange=past365days&start=2025-10-07&end=2026-10-07)
+| **Status** | Active |
 
 </div>
 
-## 🧐 What is Katalis?
+## What is Katalis?
 
 Katalis is embedded in the Linux Foundation Europe Project NeoNephos. The NeoNephos Foundation is building an open, secure, and interoperable cloud-edge continuum, empowering stakeholders to collaborate and innovate for Europe’s digital future.
 
@@ -59,10 +59,10 @@ defines a common platform exposing (telco) operator services/capabilities to cus
 in a connect once, connect to many models by a standardisation of a common architecture using a
 platform approach for exposing these services.
 
-## 🎯 Purpose
+## Purpose
 The goal is to ensure that all contributors, members, and stakeholders share a **transparent and common understanding** of how decisions are made, how work is organized, and how the project evolves.
 
-## ⚖️ Governance 
+## Governance 
 The project follows an **open governance model** inspired by Linux Foundation best practices.
 - **Steering Committee (SC)**
   - Responsible for strategic direction, alignment with EU initiatives, and coordination with other projects (e.g., Gardener, OCM, ApeiroRA).
@@ -77,24 +77,24 @@ The project follows an **open governance model** inspired by Linux Foundation be
   - Contributions are open via pull requests, issues, and discussions.
   - All technical contributions require **two maintainer approvals** before merging.
 
-## 📜 Principles
+## Principles
 1. **Openness** – Participation is open to all stakeholders.
 2. **Transparency** – All decisions are documented and accessible.
 3. **Meritocracy** – Influence is earned through contribution.
 4. **Neutrality** – Governance is vendor-neutral, focused on interoperability.
 5. **Security by Design** – Governance ensures compliance with EU standards (e.g., GDPR, NIS2).
 
-## 🤝🏻 Decision Making
+## Decision Making
 - **Consensus first** – seek agreement in working groups.
 - **Lazy consensus** – silence means consent after 5 business days.
 - **Escalation** – unresolved issues can be raised to the TSC, then the SC.
 
-## 🗣 How to Engage
+## How to Engage
 - Join discussions in GitHub **Issues** & **Discussions**
 - Propose changes via **Pull Requests**
 - Participate in **Working Groups**
 
-## 📚 References
+## References
 - [GSMA E/WBI API ](https://www.gsma.com/solutions-and-impact/technologies/networks/wp-content/uploads/2012/10/OPG.04-v7.0-Federation_API_Jul2026.zip)
 - [GSMA OPG. 02 – Requirements and Architecture](https://www.gsma.com/solutions-and-impact/technologies/networks/gsma_resources/opg-02-requirements-and-architecture/)
 - [GSMA OPG. 04 – East-Westbound Interface APIs](https://www.gsma.com/solutions-and-impact/technologies/networks/gsma_resources/opg-04-east-westbound-interface-apis/)
